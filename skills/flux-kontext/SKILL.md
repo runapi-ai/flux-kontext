@@ -4,6 +4,17 @@ description: Generate images (Flux Kontext Pro / Max text-to-image and image-to-
 documentation: https://runapi.ai/models/flux-kontext
 provider_page: https://runapi.ai/providers/black-forest-labs
 catalog: https://runapi.ai/models
+metadata:
+  openclaw:
+    homepage: https://runapi.ai/models/flux-kontext
+    primaryEnv: RUNAPI_API_KEY
+    requires:
+      env:
+      - RUNAPI_API_KEY
+    envVars:
+    - name: RUNAPI_API_KEY
+      required: true
+      description: RunAPI API key from https://runapi.ai/api_keys.
 ---
 # @runapi.ai/flux-kontext — RunAPI.ai Flux Kontext image generation
 
@@ -21,7 +32,7 @@ Set your API key in the environment:
 
 ```dotenv
 # .env
-RUNAPI_API_KEY=runapi_xxx   # get one at https://runapi.ai/settings/api_keys
+RUNAPI_API_KEY=runapi_xxx   # get one at https://runapi.ai/api_keys
 ```
 
 ```ts

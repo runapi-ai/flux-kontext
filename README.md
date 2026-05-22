@@ -1,5 +1,7 @@
 # Flux Kontext API Skill for RunAPI
 
+[![skills.sh](https://skills.sh/b/runapi-ai/flux-kontext)](https://skills.sh/runapi-ai/flux-kontext)
+
 Generate and transform images with Flux Kontext Pro and Max. This skill helps Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents integrate Flux Kontext through RunAPI.
 
 The canonical agent file is `skills/flux-kontext/SKILL.md`.

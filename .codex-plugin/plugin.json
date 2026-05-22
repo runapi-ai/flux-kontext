@@ -1,6 +1,6 @@
 {
   "name": "flux-kontext",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "RunAPI Flux Kontext skill for Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents",
   "skills": [
     {
