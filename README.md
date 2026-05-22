@@ -16,9 +16,6 @@
 
 [![skills.sh](https://www.skills.sh/b/runapi-ai/flux-kontext)](https://www.skills.sh/runapi-ai/flux-kontext/flux-kontext)
 [![ClawHub](https://img.shields.io/badge/ClawHub-runapi--flux--kontext-111827)](https://clawhub.ai/runapi-ai/runapi-flux-kontext)
-[![Model Reference](https://img.shields.io/badge/Model%20Reference-runapi.ai-0f766e)](https://runapi.ai/models/flux-kontext)
-[![RunAPI CLI](https://img.shields.io/badge/RunAPI-CLI-111827)](https://github.com/runapi-ai/cli)
-[![Agent Skills](https://img.shields.io/badge/Agent%20Skills-skills.sh-2563eb)](https://www.skills.sh/runapi-ai)
 [![License](https://img.shields.io/github/license/runapi-ai/flux-kontext)](https://github.com/runapi-ai/flux-kontext/blob/main/LICENSE)
 
 </div>
