@@ -1,6 +1,23 @@
-# Flux Kontext API Skill for RunAPI
+<p align="center">
+  <a href="https://github.com/runapi-ai/flux-kontext">
+    <h3 align="center">Flux Kontext API Skill for RunAPI</h3>
+  </a>
+</p>
+
+<p align="center">
+  Install this agent skill, inspect Flux Kontext fields, then run jobs through the RunAPI CLI.
+</p>
+
+<p align="center">
+  <a href="https://runapi.ai/models/flux-kontext.md"><strong>Model Reference</strong></a> · <a href="https://skills.sh/runapi-ai/flux-kontext"><strong>Install Skill</strong></a> · <a href="https://github.com/runapi-ai/cli"><strong>CLI</strong></a> · <a href="https://github.com/runapi-ai/flux-kontext-sdk"><strong>SDK</strong></a>
+</p>
+
+<div align="center">
 
 [![skills.sh](https://skills.sh/b/runapi-ai/flux-kontext)](https://skills.sh/runapi-ai/flux-kontext)
+
+</div>
+<br/>
 
 Generate and transform images with Flux Kontext Pro and Max. This skill helps Claude Code, Codex, Gemini CLI, Cursor, and 50+ agents integrate Flux Kontext through RunAPI.
 
